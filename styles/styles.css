@@ -1,6 +1,8 @@
+
+/* Changed the font to Times New Roman*/
 html,
 body {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .section {
